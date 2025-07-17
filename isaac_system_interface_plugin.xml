@@ -1,0 +1,9 @@
+<library path="isaac_system_interface">
+  <class
+    name="isaac_system_interface/IsaacSystemInterface"
+    type="isaac_system_interface::IsaacSystemInterface"
+    base_class_type="hardware_interface::SystemInterface">
+    <description>Isaac Sim hardware interface for ROS2 control.</description>
+  </class>
+</library>
+
